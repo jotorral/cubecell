@@ -443,7 +443,7 @@
           "category": "CubeCell", 
           "name": "CubeCell Development Framework", 
           "url": "https://raw.githubusercontent.com/jotorral/cubecell/main/ASR650x-Arduino-1.5.0-BoardManager.zip", 
-          "checksum": "SHA-256:44c69ec463cb52d18e37e2b39d4ab21397f6425a773dbe7e5e017bbf61dcaa22", 
+          "checksum": "SHA-256:c9c421a4274df4c17043678ce049f3594403172cb2d36bc91421e9dda11cdcbd", 
           "help": {
             "online": ""
           }, 
